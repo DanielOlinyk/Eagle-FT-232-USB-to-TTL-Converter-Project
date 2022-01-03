@@ -1,2 +1,2 @@
-# Eagle-FT-232-TTL-Serial-Adapter-Project
-FT232 Serial adapter PCB schematic layout and PCB design. 
+# Eagle FT232 USB to TTL Converter Project
+PCB design project of a power adapter that converts a plug in USB signal into a serial data signal for system processing. 
